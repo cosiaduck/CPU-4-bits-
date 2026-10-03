@@ -447,7 +447,7 @@ class Assembler:
                 address += 1
         return result
 
-
+# Example 3 x 4 in 4 bits
 cpu = CPU()
 
 # Put some data into data memory
